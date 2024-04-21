@@ -205,7 +205,7 @@ footer a:focus,
     }
 }
 
-/* .intro {
+.intro {
     display: table;
     width: 100%;
     height: auto;
@@ -229,7 +229,7 @@ footer a:focus,
   }
 }
 
-.intro .intro-body {
+/* .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
 }
