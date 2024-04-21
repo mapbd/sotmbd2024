@@ -14,8 +14,8 @@ color:
   primary-dark: '#32634E' # 3cb9f7 # main: blue
   primary-light: '#C31943'  # f2bb40 # secondary: yellow
   background-light: '#bedeff'
-  links: '#04065e' # dark blue
-  links-light: '#2464aa' # light-ish blue???
+  links: '#000' # 04065e # dark blue
+  links-light: '#fff'   # 2464aa # light-ish blue???
   links-white: '#fff'
   text: '#030304'
   text-light: '#fff'
