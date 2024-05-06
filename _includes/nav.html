@@ -16,8 +16,9 @@
                         <a class="page-scroll" href="#page-top"></a>
                     </li>
                     <li>
-                      <ul>Activities
-                        <li><a class="{% if page.url contains '/calls/general' %}active{% endif %}" href="{{site.baseurl}}/calls/general">Call for Participation</a>
+                      <ul class="dropdown-menu">Activities
+                        <li>
+                          <a class="{% if page.url contains '/calls/general' %}active{% endif %}" href="{{site.baseurl}}/calls/general">Call for Participation</a>
                         </li>
                         <li>
                             <a class="{% if page.url contains '/calls/academic' %}active{% endif %}" href="{{site.baseurl}}/calls/academic">Call for Scientific Abstracts</a>
