@@ -2,22 +2,30 @@
 layout: page-with-toc
 #title: Venue &amp; Transportation
 title: Host City
-headings: "kenya,getting-to,moving-around,accommodation,conference-venue,healthcare,safety,internet"
+headings: "Bangladesh,Coxs Bazar"
 ---
 
-<h2 class='space-bottom1' id='kenya'>Kenya</h2>
+<h2 class='space-bottom1' id='Bangladesh'>Bangladesh</h2>
 
-Kenya is a vibrant and diverse East African nation with beautiful landscapes and rich cultures. The country, nestled on the equator, has amazing infrastructure, and its citizens are welcoming and friendly. 
+Bangladesh is a country state in Southern Asia (converging with Southeast Asia), bordering the Bay of Bengal to the South, almost entirely encircled by India to the West North and East, and Myanmar to the Southeast. Although off the beaten path by virtually any measurement, Bangladesh is populated by friendly locals.
 
-<h3 id='nairobi'>Nairobi</h3>
 
-Nairobi is Kenya's capital and largest city, with an estimated population of 5,325,160 as of 2023. It serves as the country's economic, political, and cultural heart. The metropolis is located in the south-central part of Kenya and is the biggest city in Eastern Africa, making it a very ethnically and culturally diverse city where all the major ethnic tribes reside, besides Asians, Europeans, and expatriates. It also serves as the entry point to many African countries.
 
-Nairobi is a hub for many international organisations and a gateway to some of Africa's most renowned national parks and wildlife reserves. The city has cultural attractions like museums, art galleries, and vibrant street markets. Visitors can savour a wide range of cuisines from both local and international food chains. Whether you are interested in history, wildlife, or shopping, Nairobi is the city.  
+<h3 id='Coxs Bazar'>Cox's Bazar</h3>
 
-The city has successfully hosted some major conferences, including Africa Climate Summit  (2023), UN Environment Assembly 5 (2022), RCMRD International Conference (2023), amongst many other regional and global events.
+Cox's Bazar is a city, fishing port, tourism centre, and district headquarters in southeastern Bangladesh. Cox's Bazar Beach, one of the most popular tourist attractions in Bangladesh, is the longest uninterrupted natural beach in the world. Located 150 km (93 mi) south of the city of Chittagong, Cox's Bazar is also known by the name Panowa, which translates literally as "yellow flower." An old name was "Palongkee". Kutupalong refugee camp, the world's largest refugee camp, is in Cox's Bazar.
 
-<h3>Weather</h3>
+The city covers an area of 23.4 km2 (9.0 sq mi) with 58 mahallas and 27 wards and as of 2022 had a population of nearly 200,000.[5] Cox's Bazar is connected by road and air with Chittagong.
+
+The modern Cox's Bazar derives its name from Captain Hiram Cox, an officer of the British East India Company, a Superintendent of Palongkee outpost. To commemorate his role in refugee rehabilitation work, a market was established and named after him. It is one of Bangladesh's main tourist spots. In 2023 Bangladesh evacuated over 50,000 people to safe shelters as Cyclone Mocha approached.
+
+<!-- Nairobi is Kenya's capital and largest city, with an estimated population of 5,325,160 as of 2023. It serves as the country's economic, political, and cultural heart. The metropolis is located in the south-central part of Kenya and is the biggest city in Eastern Africa, making it a very ethnically and culturally diverse city where all the major ethnic tribes reside, besides Asians, Europeans, and expatriates. It also serves as the entry point to many African countries.
+
+Nairobi is a hub for many international organisations and a gateway to some of Africa's most renowned national parks and wildlife reserves. The city has cultural attractions like museums, art galleries, and vibrant street markets. Visitors can savour a wide range of cuisines from both local and international food chains. Whether you are interested in history, wildlife, or shopping, Nairobi is the city.
+
+The city has successfully hosted some major conferences, including Africa Climate Summit  (2023), UN Environment Assembly 5 (2022), RCMRD International Conference (2023), amongst many other regional and global events. -->
+
+<!-- <h3>Weather</h3>
 
 Nairobi enjoys a tropical climate zone with a moderate and favourable yearly climate. The month of September is generally perfect, with minimal rainfall averaging about 18mm in roughly only 5 days. The temperature in the month of September is cool, with a high of 24°C and a low of 11°C.
 
@@ -97,5 +105,5 @@ The venue provides you with reliable and convenient internet connectivity. Howev
 
 The SIM card you purchase will not only enable you to communicate, but also act as an e-wallet that allows you to make financial transactions across many shops, supermarkets, and pay for various services. You would be amazed at the digital literacy amongst Kenyans and how they have embraced technology that enables them to accept mobile based payments, and/or hard cash. You can also enjoy the convenience of online shopping by using mobile apps like Glovo and Jumia Online Shopping. Getting food and other essentials delivered to your door is also an option with available options from outlets like Foodplus, Naivas & Carrefour.
 
-Moreover, you can also access online medical services through platforms like myDawa & Ponea health,which offer you quick access to professional consultation, drug dispensation and delivery with much ease.
+Moreover, you can also access online medical services through platforms like myDawa & Ponea health,which offer you quick access to professional consultation, drug dispensation and delivery with much ease. -->
 
