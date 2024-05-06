@@ -1139,7 +1139,7 @@ h2.abstract-subtitle {
   display: block;
 }
 
-.dropdown-item a:hover {background-color: #ddd;}
+.dropdown-item a:hover {background-color: #3e8e41;}
 
 .dropdown:hover .dropdown-item {display: block;}
 
