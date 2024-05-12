@@ -234,6 +234,27 @@ footer a:focus,
   vertical-align: left;
 }
 
+.intro-body .limiter .left {
+  height: 100%;
+}
+.intro-body .limiter .left .col12 {
+  text-align: center;
+  padding: 0px;
+  width: 20%;
+  min-width: 100px;
+  height: 100%;
+  margin-left: 14%;
+  margin-right: auto;
+}
+
+.col12 .col4.margin4.margin4r {
+   position: relative;
+   margin-left: 0px;
+   margin-right: auto;
+   width: 100%;
+   clear: both;
+}
+
 .intro .intro-body .logo {
   font-size: 40px;
   text-align: left;
