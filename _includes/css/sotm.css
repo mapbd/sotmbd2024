@@ -229,7 +229,7 @@ footer a:focus,
   }
 }
 
-/* .intro .intro-body {
+.intro .intro-body {
     display: table-cell;
     vertical-align: middle;
 }
@@ -281,7 +281,7 @@ footer a:focus,
 }
 .intro .intro-body ul li {
   margin-bottom: 0.33em;
-} */
+}
 
 /* Logo positioning
 ------------------------------------------------------- */
