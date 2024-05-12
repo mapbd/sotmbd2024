@@ -207,8 +207,7 @@ footer a:focus,
 
 .intro {
   display: table;
-  width: 100%;
-  height: auto;
+  height: 100vh;
   padding: 100px 0;
   text-align: center;
   color: #fff;
@@ -221,8 +220,6 @@ footer a:focus,
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  /* background-position-y: center;
-  background-position-x: right; */
 }
 @supports (background-image: url(./img/sotmbd_banner.svg)) {
 .intro {
