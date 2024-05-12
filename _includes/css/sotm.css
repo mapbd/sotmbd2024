@@ -207,8 +207,8 @@ footer a:focus,
 
 .intro {
   display: table;
-  height: 100vh;
-  max-width: 100%;
+  width: 100%;
+  height: auto;
   padding: 100px 0;
   text-align: center;
   color: #fff;
@@ -220,11 +220,12 @@ footer a:focus,
   -o-background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position-y: center;
+  background-position-x: right;
 }
 @supports (background-image: url(./img/SotmBD_Banners.webp)) {
 .intro {
-  background-image: url(./img/SotmBD_Banners.webp;
+  background-image: url(./img/SotmBD_Banners.webp);
 }
 }
 
