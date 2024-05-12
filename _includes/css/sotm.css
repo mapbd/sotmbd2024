@@ -208,11 +208,12 @@ footer a:focus,
 .intro {
   display: table;
   height: 100vh;
+  max-width: 100%;
   padding: 100px 0;
   text-align: center;
   color: #fff;
   position: relative;
-  background-image: url(./img/SotmBD_Banner.webp);
+  background-image: url(./img/SotmBD_Banners.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -221,9 +222,9 @@ footer a:focus,
   background-attachment: fixed;
   background-position: center;
 }
-@supports (background-image: url(./img/SotmBD_Banner.webp)) {
+@supports (background-image: url(./img/SotmBD_Banners.webp)) {
 .intro {
-  background-image: url(./img/SotmBD_Banner.webp;
+  background-image: url(./img/SotmBD_Banners.webp;
 }
 }
 
