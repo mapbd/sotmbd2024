@@ -213,7 +213,7 @@ footer a:focus,
   text-align: left;
   color: #fff;
   position: relative;
-  background-image: url(./img/1.jpg);
+  background-image: url(./img/2.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -223,9 +223,9 @@ footer a:focus,
   background-position-y: center;
   background-position-x: right;
 }
-@supports (background-image: url(./img/1.webp)) {
+@supports (background-image: url(./img/2.webp)) {
 .intro {
-  background-image: url(./img/1.webp);
+  background-image: url(./img/2.webp);
 }
 }
 
