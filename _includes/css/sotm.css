@@ -212,7 +212,7 @@ footer a:focus,
   text-align: center;
   color: #fff;
   position: relative;
-  background-image: url(./img/sotmbd_banner.svg);
+  background-image: url(./img/SotmBD_Banner.webp);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -221,9 +221,9 @@ footer a:focus,
   background-attachment: fixed;
   background-position: center;
 }
-@supports (background-image: url(./img/sotmbd_banner.svg)) {
+@supports (background-image: url(./img/SotmBD_Banner.webp)) {
 .intro {
-  background-image: url(./img/sotmbd_banner.svg;
+  background-image: url(./img/SotmBD_Banner.webp;
 }
 }
 
