@@ -231,7 +231,7 @@ footer a:focus,
 
 .intro .intro-body {
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: left;
 }
 
 .intro .intro-body .logo {
