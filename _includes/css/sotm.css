@@ -238,7 +238,7 @@ footer a:focus,
   z-index: 1;
   position: absolute;
   top: 0;
-  right: 0;
+  left: 50px;
 }
 .intro-body .limiter .left .col12 {
   text-align: center;
