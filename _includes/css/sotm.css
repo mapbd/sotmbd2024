@@ -239,6 +239,7 @@ footer a:focus,
   position: absolute;
   top: 0;
   left: 0;
+  margin-left: 100px;
   margin-top: 100px;
 }
 .intro-body .limiter .left .col12 {
@@ -286,7 +287,7 @@ footer a:focus,
   background-color: {{ site.color.primary-dark }};
 }
 .intro .intro-body .attending img {
-  width: 8em;
+  width: 100%;
   height: auto;
   margin-right: 1em;
   margin-left: 1em;
