@@ -213,7 +213,7 @@ footer a:focus,
   text-align: left;
   color: #fff;
   position: relative;
-  background-image: url(./img/2.jpg);
+  background: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -223,11 +223,11 @@ footer a:focus,
   background-position-y: center;
   background-position-x: right;
 }
-@supports (background-image: url(./img/2.webp)) {
+/* @supports (background-image: url(./img/2.webp)) {
 .intro {
   background-image: url(./img/2.webp);
 }
-}
+} */
 
 .intro .intro-body {
   display: table-cell;
@@ -1078,7 +1078,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin: 0;
 }
 
 /* Caption text */
