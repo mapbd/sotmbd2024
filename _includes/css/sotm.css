@@ -208,7 +208,7 @@ footer a:focus,
 .intro {
   display: table;
   width: 100%;
-  height: 600px;
+  height: auto;
   padding: 0;
   text-align: left;
   color: #fff;
@@ -271,6 +271,7 @@ footer a:focus,
 }
 
 .intro .intro-body .logo > img {
+  height: 300px;
   width: 100%;
   display: block;
 }
