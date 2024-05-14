@@ -208,7 +208,7 @@ footer a:focus,
 .intro {
   display: table;
   width: 100%;
-  height: auto;
+  height: 600px;
   padding: 0;
   text-align: left;
   color: #fff;
