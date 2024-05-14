@@ -314,7 +314,7 @@ margin-bottom: 0.33em;
   margin: 0px;
   z-index: 1;
   position: absolute;
-  top: 0;
+  top: 10;
   left: 0;
 }
 
@@ -1194,7 +1194,7 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 2s;
+  animation-duration: 5s;
 }
 
 @keyframes fade {
