@@ -441,7 +441,7 @@ header.intro .credits {
   padding: 14px 13px;
   border-radius: 35px;
   font-size: 40px;
-  color: {{ site.color.text-light }};
+  color: {{ site.color.links }};
   background-color: {{ site.color.primary-dark }};
   -webkit-transition: background .3s ease-in-out, text .3s ease-in-out;
   -moz-transition: background .3s ease-in-out, text .3s ease-in-out;
