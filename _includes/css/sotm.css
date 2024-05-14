@@ -229,7 +229,7 @@ footer a:focus,
 }
 } */
 
-.intro .intro-body {
+/* .intro .intro-body {
   display: table-cell;
   vertical-align: left;
 }
@@ -302,7 +302,70 @@ footer a:focus,
 }
 .intro .intro-body ul li {
 margin-bottom: 0.33em;
+} */
+
+/* Logo positioning
+------------------------------------------------------- */
+
+.intro-body .limiter {
+  max-width: 80%;
+  width: 100%;
+  height: 80%;
+  margin: 0px;
 }
+
+.intro-body .limiter .left {
+  height: 100%;
+}
+
+.intro-body .limiter .left .col12 {
+ text-align: center;
+ padding: 0px;
+ width: 20%;
+ min-width: 100px;
+ height: 100%;
+ margin-left: 14%;
+ margin-right: auto;
+}
+
+.col12 .col4.margin4.margin4r {
+  position: relative;
+  margin-left: 0px;
+  margin-right: auto;
+  width: 100%;
+  clear: both;
+}
+
+.aizu-logo {
+  position:relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 154%;
+  margin: 0px;
+  overflow: hidden;
+}
+
+.col12 .col4.margin4.margin4r img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.col12 a {
+  margin-left: auto;
+  margin-right: auto;
+  clear: both;
+}
+
+
+
+
+
+
+
+
 
 .credits {
   color: white;
