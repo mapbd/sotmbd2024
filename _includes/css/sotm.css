@@ -213,7 +213,7 @@ footer a:focus,
   text-align: left;
   color: #fff;
   position: relative;
-  background: #fff;
+  background: #bedeff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -1125,7 +1125,7 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: .5s;
 }
 
 @keyframes fade {
