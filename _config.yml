@@ -11,9 +11,9 @@ markdown: kramdown
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#32634E' # 3cb9f7 # main: blue
-  primary-light: '#ED2426'  # f2bb40 # secondary: yellow
-  background-light: '#bedeff'
+  primary-dark: '#fff'  # bedeff # 3cb9f7 # main: blue
+  primary-light: '#3C3C3C'  # f2bb40 # secondary: yellow
+  background-light: '#fff'      # bedeff
   links: '#000' # 04065e # dark blue
   links-light: '#fff'   # 2464aa # light-ish blue???
   links-white: '#fff'
