@@ -4,7 +4,6 @@ title: Call for logo
 headings: "SoTM Bangladesh"
 ---
 
-<h2 class='space-bottom1' id='callofrlogo'>Call For Logo</h2>
 
 The **State of the Map Bangladesh (SotMBD)** organizing committee is pleased to announce a call for logo designs. We need your help to build a strong, recognisable logo for the upcoming **“State of the Map Bangladesh (SotMBD) ‘2024”** in Cox’s Bazar, Bangladesh, on September 28th and 29th, 2024.
 
