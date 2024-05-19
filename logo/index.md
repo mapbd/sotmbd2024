@@ -21,11 +21,11 @@ By submitting a logo, you will be assigning an open license to “SotM Banglades
 - Please ensure it’s a design we can add to plain or busy backgrounds
 - The design should communicate
 
-         - The Bangladeshi essence: the people, culture, and heritage
-         - The sense of community
-         - The sense of learning, education, and knowledge-sharing
-         - Fun, Festivity, and Colorfulness
-         - The potential of frontier technology, open mapping, and open data in “Vision 2041: Smart Bangladesh”
+  - The Bangladeshi essence: the people, culture, and heritage
+  - The sense of community
+  - The sense of learning, education, and knowledge-sharing
+  - Fun, Festivity, and Colorfulness
+  - The potential of frontier technology, open mapping, and open data in “Vision 2041: Smart Bangladesh”
 
 - Dimensions: Ideally, 1200 x 1200 pixels or at least 1200 pixels for the shorter side
 - Attach hi-res **PNG, SVG, PDF, AI** or **EPS** only
