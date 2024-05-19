@@ -1,23 +1,48 @@
 ---
 layout: page-with-toc
-#title: Venue &amp; Transportation
-title: Host City
-headings: "Bangladesh,Coxs Bazar"
+title: Call for logo
+headings: "SoTM Bangladesh"
 ---
 
-<h2 class='space-bottom1' id='Bangladesh'>Bangladesh</h2>
+<h2 class='space-bottom1' id='callofrlogo'>Call For Logo</h2>
 
-Bangladesh is a country state in Southern Asia (converging with Southeast Asia), bordering the Bay of Bengal to the South, almost entirely encircled by India to the West North and East, and Myanmar to the Southeast. Although off the beaten path by virtually any measurement, Bangladesh is populated by friendly locals.
+The State of the Map Bangladesh (SotMBD) organizing committee is pleased to announce a call for logo designs. We need your help to build a strong, recognisable logo for the upcoming “State of the Map Bangladesh (SotMBD) ‘2024” in Cox’s Bazar, Bangladesh, on September 28th and 29th, 2024.
+
+By submitting a logo, you will be assigning an open license to “SotM Bangladesh” so that it can be used across different mediums. The organising committee may also commission improvements to the winning work. Entries need to appear on the SotMBD 2024 wiki page or logo entries by June 15th, 2024. The committee may open the logos to the community for a vote to decide which logo wins.
 
 
 
-<h3 id='Coxs Bazar'>Cox's Bazar</h3>
 
-Cox's Bazar is a city, fishing port, tourism centre, and district headquarters in southeastern Bangladesh. Cox's Bazar Beach, one of the most popular tourist attractions in Bangladesh, is the longest uninterrupted natural beach in the world. Located 150 km (93 mi) south of the city of Chittagong, Cox's Bazar is also known by the name Panowa, which translates literally as "yellow flower." An old name was "Palongkee". Kutupalong refugee camp, the world's largest refugee camp, is in Cox's Bazar.
+<h3 id='design'>Design Brief and submission instructions</h3>
 
-The city covers an area of 23.4 km2 (9.0 sq mi) with 58 mahallas and 27 wards and as of 2022 had a population of nearly 200,000.[5] Cox's Bazar is connected by road and air with Chittagong.
+Create your logo in PNG file format and in a scalable file format (either SVG or PDF).
+If you're not used to scalable formats, please still enter the competition, as we can try to help. Make your logo available online, One option is to submit your entry to sotmbd@gmail.com or ask.bhoot@gmail.com
+We will add the link or include your logo on the SotMBD 2024 wiki page/Logo Entries for you
+Please ensure it’s a design we can add to plain or busy backgrounds
+The design should communicate
+The Bangladeshi essence: the people, culture, and heritage
+The sense of community
+The sense of learning, education, and knowledge-sharing
+Fun, Festivity, and Colorfulness
+The potential of frontier technology, open mapping, and open data in “Vision 2041: Smart Bangladesh”
+Dimensions: Ideally, 1200 x 1200 pixels or at least 1200 pixels for the shorter side
+Attach hi-res PNG, SVG, PDF, AI or EPS only
+In your email, add 1-2 paragraphs describing elements used and how these relate to open mapping, Bangladesh's history, culture, and heritage.
 
-The modern Cox's Bazar derives its name from Captain Hiram Cox, an officer of the British East India Company, a Superintendent of Palongkee outpost. To commemorate his role in refugee rehabilitation work, a market was established and named after him. It is one of Bangladesh's main tourist spots. In 2023 Bangladesh evacuated over 50,000 people to safe shelters as Cyclone Mocha approached.
+
+<h3 id='prize'>Prize</h3>
+
+The winning entry will receive a full conference registration, a conference gala dinner ticket, a certificate of appreciation, and a goodie bag with the logo.
+
+<h3 id='distribution'>Distribution</h3>
+
+The logo will appear on the conference website, social media, flyers, emails, sponsor communications, certificates, t-shirts and potentially any other conference ‘swag’ like bags, keychains, pens, etc.
+
+
+***Please, follow the design brief mentioned above.
+Thanks,
+SotMBD Organizing Committee
+
 
 <!-- Nairobi is Kenya's capital and largest city, with an estimated population of 5,325,160 as of 2023. It serves as the country's economic, political, and cultural heart. The metropolis is located in the south-central part of Kenya and is the biggest city in Eastern Africa, making it a very ethnically and culturally diverse city where all the major ethnic tribes reside, besides Asians, Europeans, and expatriates. It also serves as the entry point to many African countries.
 
