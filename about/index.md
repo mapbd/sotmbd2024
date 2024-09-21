@@ -4,7 +4,7 @@ color: purple
 title: About
 ---
 
-![State_of_the_Map_Bangladesh](/nairobi.jpg)
+![State_of_the_Map_Bangladesh](/./img/5.jpg)
 
 The Bangladesh Open Innovation Lab (BOIL) and OpenStreetMap Bangladesh (OSMBD) are teaming up to host the "State of the Map Bangladesh (SoTMBD) ‘2024" conference, a first of its kind in Bangladesh, a national gathering focused on mapping and geospatial technology. It aims to gather all significant stakeholders, including IM professionals, NGOs, government counterparts, industry leaders, academic experts, and geospatial enthusiasts from across the nation and the globe. This inaugural event aligns with the broader "State of the Map (SoTM)" event series facilitated by the OpenStreetMap Foundation, reflecting a global effort to enhance open mapping initiatives. Additionally, SoTMBD will be integrated into the Humanitarian OpenStreetMap Team's (HOT) Opensummit program, emphasizing its role in fostering collaboration and sharing knowledge in the geospatial community.
 

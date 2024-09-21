@@ -223,11 +223,11 @@ footer a:focus,
   background-position-y: center;
   background-position-x: right;
 }
-/* @supports (background-image: url(./img/2.webp)) {
+@supports (background-image: url(./img/2.jpg)) {
 .intro {
-  background-image: url(./img/2.webp);
+  background-image: url(./img/2.jpg);
 }
-} */
+}
 
 /* .intro .intro-body {
   display: table-cell;
@@ -342,8 +342,8 @@ margin-bottom: 0.33em;
 
 .aizu-logo {
   position:relative;
-  width: 100%;
-  height: 0px;
+  /* width: 100%;
+  height: 0px; */
   padding-top: 154%;
   margin: 0px;
   overflow: hidden;
