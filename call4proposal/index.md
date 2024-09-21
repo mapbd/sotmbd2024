@@ -1,30 +1,25 @@
 ---
-layout: page
+layout: page-with-toc
 color: purple
-title: Call for proposal
-headings: "Tracks,Submission Types,Spontaneously Organized Sessions,Rating Criteria,Language,Modality,Scholarships"
+title: "Call for proposal"
+headings: "call,tracks,Submission,Spontaneously,Rating,Language,Modality,Scholarships"
+
 ---
 
-Deadlines
+## Deadlines
 
-Open call for Abstract/proposal
-From 21/09/2024
-to 08/10/2024 23:59 UTC
-Review
-from 09/10/2024
-to 13/10/2024
-Announce accepted Abstract/proposal
-
-
-15/10/2024
-SotM program
-
-
-30/11/2024 & 01/12/2024
+| Object    | Time |
+| -------- | ------- |
+| Open call for Abstract/proposal  | From 21/09/2024 to 08/10/2024 23:59 UTC |
+| Review | from 09/10/2024
+to 13/10/2024     |
+| Announce accepted Abstract/proposal    |  15/10/2024   |
+| SotM program    | 30/11/2024 & 01/12/2024    |
 
 
 
 
+<h2 id="call">Call for Participation</h2>
 State of the Map Asia (SotM-Asia) is a regional SotM conference for the continent of Asia. State of the Map Bangladesh is a local SotM conference for the Bangladesh Community. OSM’ers organize annual State of the Map meet-ups as a way to build community, share tools and research, and network with each other toward the shared goal of improving the map. They come in all sizes and are organized locally, regionally and globally, but the goal is always the same: to get together to talk about mapmaking research, tools, initiatives, and other community topics.
 
 We would love to see your submission for one or more of these tracks:
@@ -37,7 +32,7 @@ We would love to see your submission for one or more of these tracks:
   * Data Analysis & Data Model
   * User Experiences
 
-<h2 id='Tracks'> Tracks </h2>
+<h2 id='tracks'> Tracks </h2>
 
 Don’t worry too much about the track categories. They are mainly there to give you an idea on what kind of talks we are looking for and to help us organize the conference. If you find it difficult to select the right track for your talk, choose the one that fits best.
 
@@ -70,7 +65,7 @@ This track is dedicated to OSM data itself: analysis of OSM data quality; reflec
 ## User Experiences
 This track is all about the usage of OSM. Examples are how OSM is used in governments, public transport, humanitarian response, and scientific context, among others, as well as OSM as an educational tool in classrooms. You can present citizen projects that are using OSM data to understand and manage their environment.
 
-<h2 id='Submission Types'> Submission Types</h2>
+<h2 id='Submission'> Submission Types</h2>
 You may choose whether you attend in person or participate virtually for most submission types. We will try to make all events available for online and offline attendance. Exceptions are noted below. Please keep in mind that the conference will take place in the BDT timezone (UTC+6). We will try to accommodate the timezone of participants when scheduling events but we will be restricted to the usual conference hours between 9 am and 6 pm local time (i.e. BDT).
 
 ## Talk (15 minutes)
@@ -90,7 +85,7 @@ Panels are for hot, controversial discussions around OSM community, mapping and 
 ## Other
 Your submission does not fit into any of these submission types? Please get in touch with the program committee via email (sotmbd@gmail.com or stateofthemapasia@gmail ) before the end of the call for participation.
 
-<h2 id='Spontaneously Organized Sessions'> Spontaneously Organized Sessions</h2>
+<h2 id='Spontaneously'> Spontaneously Organized Sessions</h2>
 We plan to provide space for sessions which cannot be submitted in advance. Details will be announced before the conference.
 
 ## Lightning Talk
@@ -103,7 +98,7 @@ Birds of a Feather (BoF) sessions are informal, spontaneous discussion rounds ce
 We will try to provide free spaces to meet or just chitchat for working groups, local chapters, local groups, user groups, etc.
 
 
-<h2 id='Rating Criteria'> Rating Criteria </h2>
+<h2 id='Rating'> Rating Criteria </h2>
 In rating submissions, we will apply the following criteria:
 * OSM as the subject: A submission where OSM is the main subject or an important ingredient will be rated higher than one that is more generic (e.g. a general talk about GIS software).
 * Preference of “open”: A submission about open data and open source software will be preferred over one that deals with proprietary data or proprietary software and closed platforms.
@@ -131,17 +126,23 @@ Gain valuable feedback on your work from experienced mappers, developers, indust
 Network with other attendees and build connections far & beyond the local community.
 We eagerly anticipate receiving your abstracts and making SotM Asia 2024 and SotM Bangladesh 2024 an enriching and informative event!
 
-<h2 id='Scholarships'> Scholarships:</h2>
+<h2 id='Scholarships'> Scholarships</h2>
 State of the Map Asia and State of the Map Bangladesh is a non-commercial event driven by the community, where no organizers, participants or speakers are reimbursed for their roles in the event. Though several scholarships are provided to those who face difficulty in attending the event but come up with excellent activities. Our call for the scholarship can be found in the given link below who wish to apply for funding to attend the programs.
 
 ## How to Submit a Proposal:
 
-Submission for abstract is Open now!! Submit your FORM HERE
-*You might be required to submit your full presentation or content prior to the event, while asked by the program organizer team.
-For any queries mail to: sotmbd@gmail.com; stateofthemapasia@gmail.com
-For more information:
-Visit the SotM Bangladesh 2024 website: https://2024.sotmbd.org
-Visit the SotM Asia 2024 website: https://stateofthemap.asia
+Submission for abstract is Open now!!
 
-Follow us on social media: Facebook. Twitter, and LinkedIn
+Submit your **[FORM HERE](https://docs.google.com/forms/d/e/1FAIpQLSfTcJDMwyhM9qrwB9aKB4-ig6BzQv6PtdFOXC1h1On6xqdSwQ/viewform)**
+
+* You might be required to submit your full presentation or content prior to the event, while asked by the program organizer team.
+
+For any queries mail to:[sotmbd@gmail.com](mailto:sotmbd@gmail.com) ; [stateofthemapasia@gmail.com](mailto:stateofthemapasia@gmail.com)
+
+For more information:
+
+Visit the SotM Bangladesh 2024 website: [https://sotmbd.org](https://sotmbd.org)
+Visit the SotM Asia 2024 website: [https://stateofthemap.asia](https://stateofthemap.asia)
+
+Follow us on social media: [Facebook](#). [Twitter](#), and [LinkedIn](#)
 
