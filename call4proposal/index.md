@@ -144,5 +144,5 @@ For more information:
 Visit the SotM Bangladesh 2024 website: [https://sotmbd.org](https://sotmbd.org)
 Visit the SotM Asia 2024 website: [https://stateofthemap.asia](https://stateofthemap.asia)
 
-Follow us on social media: [Facebook](#). [Twitter](#), and [LinkedIn](#)
+Follow us on social media: [Facebook](https://www.facebook.com/SotmAsia/). [Twitter](https://x.com/sotmasia), and [LinkedIn](#)
 
