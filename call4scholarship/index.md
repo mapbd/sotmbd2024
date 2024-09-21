@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: page-with-toc
 color: purple
 title: Call for Scholarship
+headings: "tips,Selection,apply"
 ---
 
 
@@ -16,7 +17,7 @@ State of the Map Asia, our annual gathering, welcomes all who are involved  with
 
 Each year, we receive more scholarship applications than we are able to support. To help us best allocate the funds, please specify the minimum types of support you need to attend. If you are requesting a travel grant, then tell us the amount of money to cover a portion of your travel and make a difference to attending or not. Please review our privacy policy covering how we will handle the information in your application.
 
-
+<h2 id="tips">Tips to help</h2>
 # Here are some tips to help you complete your application.
 
 
@@ -27,29 +28,29 @@ Each year, we receive more scholarship applications than we are able to support.
 * You may include links to your OpenStreetMap profile, a local group you run, or software  you created. If your written answer is satisfactory to get on our  shortlist, we might look at these additional details.
 * The motivation statement on why you decided to apply for the TGP
 
-## Selection Criteria
+<h2 id="Selection"> Selection Criteria</h2>
 
-# Lighting talks abstract:
+## Lighting talks abstract:
 The travel grant winners will be asked to present something about their experience, their mapping activities, or their community in a dedicated lighting talk session (5-minute presentation). This is not the call for participation; the call will be open, and there will be the possibility to submit talks and workshops. The dedicated lighting talks aim to involve more travel grant winners in the conference, highlighting their contributions and experiences in OSM.
 
-# Volunteering:
+## Volunteering:
 The travel grant winners will be asked to volunteer for a time proportional to 1/3 or less of the conference length, depending on the number of other volunteers. Indicate the roles that you are confident to do: Live Video Cutting, Remote/Pre-Recorded Talk Assistant, Session Assistant.
 
-# OpenStreetMap and Community:
+## OpenStreetMap and Community:
 Details of their past contributions to OpenStreetMap projects or community activities
 
 
-# First State of the Map Asia:
+## First State of the Map Asia:
 Applicants that attend SotM for the first time receive an extra point.
 
-# Gender and Minorities:
+## Gender and Minorities:
 In order to create a more diverse community, women and applicants from other underrepresented groups will receive an extra point.
 
-# Students:
+## Students:
 Students, including PhD students, receive an extra point. You may be asked to provide evidence of enrollment.
 
 
-## How to Apply
+<h2 id="apply"> How to Apply</h2>
 
 If you wish to be considered for a SotM Asia and Bangladesh 2024 travel grant, please fill out the **[application form](https://docs.google.com/forms/d/e/1FAIpQLSf4qIovKx5wRIvOzQodMGTu-XW2WX9FU6uM8aEAfEDTP55x9Q/viewform)**.
 
@@ -62,4 +63,4 @@ The selection committee will aim to notify recipients of grants by the mid of Oc
 
 Stay tuned to know more about the news and the events of State of the Map 2024! See you in Cox's Bazar and online.
 
-# The State of the Map Asia and Bangladesh 2024 Organizing Committee
+## The State of the Map Asia and Bangladesh 2024 Organizing Committee
